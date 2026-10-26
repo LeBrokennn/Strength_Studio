@@ -1,0 +1,50 @@
+[
+ {
+  "id": "6954d601-a4d2-4864-979c-8d389ec19392",
+  "name": "Proteína Whey 1 kg",
+  "desc": "Sabor vainilla o chocolate. 30 porciones.",
+  "price": 29990,
+  "stock": 12,
+  "image": "/img/p1.svg"
+ },
+ {
+  "id": "1790ac24-29ef-4466-ae6c-66b7c8a056dc",
+  "name": "Creatina 300 g",
+  "desc": "Monohidrato, sin sabor.",
+  "price": 19990,
+  "stock": 8,
+  "image": "/img/p2.svg"
+ },
+ {
+  "id": "5b365b6a-dc1e-47b0-b9d5-c655646e86f1",
+  "name": "Shaker 700 ml",
+  "desc": "Con mezclador y tapa antiderrame.",
+  "price": 5990,
+  "stock": 25,
+  "image": "/img/p3.svg"
+ },
+ {
+  "id": "edcc7c9f-d301-49e2-841e-bc763a30fbd6",
+  "name": "Guantes de entrenamiento",
+  "desc": "Agarre firme y muñequera.",
+  "price": 8990,
+  "stock": 0,
+  "image": "/img/p4.svg"
+ },
+ {
+  "id": "520cd5c2-602c-4044-bf7c-4a5a259192a8",
+  "name": "Cinturón lumbar",
+  "desc": "Cuero, ideal para peso muerto y sentadilla.",
+  "price": 24990,
+  "stock": 4,
+  "image": "/img/p5.svg"
+ },
+ {
+  "id": "cba3f70a-7aa4-4eac-aa8f-0427d13c49c2",
+  "name": "Polera Dodal",
+  "desc": "Dry-fit, tallas S a XL.",
+  "price": 12990,
+  "stock": 15,
+  "image": "/img/p6.svg"
+ }
+]

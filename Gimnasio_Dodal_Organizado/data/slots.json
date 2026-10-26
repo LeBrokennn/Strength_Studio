@@ -1,0 +1,116 @@
+[
+ {
+  "id": "b9bc4c00-c80b-417b-b4a4-3004652f6789",
+  "date": "2026-10-26",
+  "time": "10:00",
+  "booked": false
+ },
+ {
+  "id": "dc69cb13-728c-4c28-bde7-ce073b2ab245",
+  "date": "2026-10-26",
+  "time": "16:00",
+  "booked": false
+ },
+ {
+  "id": "20223baa-7034-411f-a7a4-f6362197051e",
+  "date": "2026-10-26",
+  "time": "18:00",
+  "booked": false
+ },
+ {
+  "id": "1bff891e-e7c9-4804-af87-76179ec071c8",
+  "date": "2026-10-27",
+  "time": "11:00",
+  "booked": false
+ },
+ {
+  "id": "d69543b7-6ed8-41c6-9621-e883ce5a4a72",
+  "date": "2026-10-27",
+  "time": "18:00",
+  "booked": false
+ },
+ {
+  "id": "64eb21dc-05d2-42fd-8fcb-e494e3e3a762",
+  "date": "2026-10-28",
+  "time": "10:00",
+  "booked": false
+ },
+ {
+  "id": "581efb01-3a83-4007-a380-db3e5d4508da",
+  "date": "2026-10-28",
+  "time": "11:00",
+  "booked": false
+ },
+ {
+  "id": "30e6a2df-220b-4a68-9b67-693e282b05f5",
+  "date": "2026-10-28",
+  "time": "16:00",
+  "booked": false
+ },
+ {
+  "id": "ea54a0a7-1b1c-49c3-89a9-551fe1da2fd5",
+  "date": "2026-10-29",
+  "time": "10:00",
+  "booked": false
+ },
+ {
+  "id": "f8f5a833-3552-4475-9188-b3f667cf88e9",
+  "date": "2026-10-29",
+  "time": "16:00",
+  "booked": false
+ },
+ {
+  "id": "8b364b43-e807-422c-9ea3-955cd7db15be",
+  "date": "2026-10-29",
+  "time": "18:00",
+  "booked": false
+ },
+ {
+  "id": "8c778cfb-96d0-4b8a-8f91-4585f74a9837",
+  "date": "2026-10-30",
+  "time": "11:00",
+  "booked": false
+ },
+ {
+  "id": "60fedab9-53f4-439d-9409-e3cb5bf22f6c",
+  "date": "2026-10-30",
+  "time": "18:00",
+  "booked": false
+ },
+ {
+  "id": "84b2bcdf-a1bb-4b36-aebc-0921d7db6341",
+  "date": "2026-10-31",
+  "time": "10:00",
+  "booked": false
+ },
+ {
+  "id": "98d842f3-25be-4781-a023-1aa21fa4b203",
+  "date": "2026-10-31",
+  "time": "11:00",
+  "booked": false
+ },
+ {
+  "id": "f139778b-2d93-49f4-bd89-579bf19550ac",
+  "date": "2026-10-31",
+  "time": "16:00",
+  "booked": false
+ },
+ {
+  "id": "1adef86b-b977-4d09-833d-603bc46c6c92",
+  "date": "2026-11-01",
+  "time": "10:00",
+  "booked": false
+ },
+ {
+  "id": "202404ac-3eb2-4365-ba74-4cfb673910b8",
+  "date": "2026-11-01",
+  "time": "16:00",
+  "booked": false
+ },
+ {
+  "id": "59cb268d-da05-4faa-ad7b-b54b5a63b383",
+  "date": "2026-11-01",
+  "time": "18:00",
+  "booked": false
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "id": "3bf7ee27-2b05-42a5-a9b6-9ede4f33e279",
+  "day": 0,
+  "time": "07:00",
+  "name": "Funcional",
+  "coach": "Coach Camila",
+  "desc": "Circuito de fuerza y resistencia con peso corporal, kettlebells y cuerdas.",
+  "duration": "55 min",
+  "level": "Todos los niveles"
+ },
+ {
+  "id": "a25e60e8-20ad-46cc-b7bd-207819a0c67c",
+  "day": 0,
+  "time": "19:00",
+  "name": "Boxeo fitness",
+  "coach": "Coach Matías",
+  "desc": "Técnica de golpeo y trabajo cardiovascular sin contacto.",
+  "duration": "60 min",
+  "level": "Principiante"
+ },
+ {
+  "id": "3652a0e1-d1dd-487e-9f77-2d9c87f719d9",
+  "day": 1,
+  "time": "08:00",
+  "name": "Yoga y movilidad",
+  "coach": "Coach Paula",
+  "desc": "Flujo suave para ganar flexibilidad y reducir tensión.",
+  "duration": "60 min",
+  "level": "Todos los niveles"
+ },
+ {
+  "id": "f4f1d848-37ae-4bc8-8d4b-5151d159cc57",
+  "day": 1,
+  "time": "19:30",
+  "name": "Crossfit",
+  "coach": "Coach Diego",
+  "desc": "WOD del día con escalas para cada nivel.",
+  "duration": "60 min",
+  "level": "Intermedio"
+ },
+ {
+  "id": "6f1d6228-2bdf-48ff-a330-7e9158f38f55",
+  "day": 2,
+  "time": "07:00",
+  "name": "Funcional",
+  "coach": "Coach Camila",
+  "desc": "Circuito de fuerza y resistencia con peso corporal, kettlebells y cuerdas.",
+  "duration": "55 min",
+  "level": "Todos los niveles"
+ },
+ {
+  "id": "e9eb47c2-a1fa-4202-80e0-bb3d7e1c003d",
+  "day": 2,
+  "time": "20:00",
+  "name": "Spinning",
+  "coach": "Coach Fernanda",
+  "desc": "Clase de ciclo indoor con música y intervalos.",
+  "duration": "45 min",
+  "level": "Todos los niveles"
+ },
+ {
+  "id": "866e98e9-026a-41de-9e6f-cd4c349de370",
+  "day": 3,
+  "time": "19:00",
+  "name": "Boxeo fitness",
+  "coach": "Coach Matías",
+  "desc": "Técnica de golpeo y trabajo cardiovascular sin contacto.",
+  "duration": "60 min",
+  "level": "Principiante"
+ },
+ {
+  "id": "7f1f997e-9a14-449b-92ab-41eca87e9bf3",
+  "day": 3,
+  "time": "20:00",
+  "name": "Core y abdomen",
+  "coach": "Coach Paula",
+  "desc": "Zona media fuerte: abdomen, lumbar y estabilidad.",
+  "duration": "40 min",
+  "level": "Todos los niveles"
+ },
+ {
+  "id": "77d925ad-59c9-4903-ba08-f69639d0dbd6",
+  "day": 4,
+  "time": "07:00",
+  "name": "Crossfit",
+  "coach": "Coach Diego",
+  "desc": "WOD del día con escalas para cada nivel.",
+  "duration": "60 min",
+  "level": "Intermedio"
+ },
+ {
+  "id": "0b277703-7d9b-44aa-b195-4403517a3c48",
+  "day": 4,
+  "time": "18:30",
+  "name": "Funcional",
+  "coach": "Coach Camila",
+  "desc": "Circuito de fuerza y resistencia con peso corporal, kettlebells y cuerdas.",
+  "duration": "55 min",
+  "level": "Todos los niveles"
+ },
+ {
+  "id": "f762ba4a-cbe8-4e1d-bf89-4296fbf90f95",
+  "day": 5,
+  "time": "10:00",
+  "name": "Clase abierta",
+  "coach": "Coach Diego",
+  "desc": "Entrenamiento grupal para terminar la semana.",
+  "duration": "60 min",
+  "level": "Todos los niveles"
+ },
+ {
+  "id": "7d81b4cc-9e42-46f0-8ef5-a953c5ddf743",
+  "day": 5,
+  "time": "11:30",
+  "name": "Yoga",
+  "coach": "Coach Paula",
+  "desc": "Práctica completa de yoga con relajación final.",
+  "duration": "60 min",
+  "level": "Principiante"
+ }
+]

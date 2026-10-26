@@ -1,0 +1,38 @@
+[
+ {
+  "id": "867107ec-9fa7-427b-95cf-f48753f958e3",
+  "name": "Camila Rojas",
+  "role": "Profesora de Educación Física · Entrenadora funcional",
+  "studies": "Pedagogía en Educación Física (U. de Chile) · Certificación CrossFit Nivel 2 · Diplomado en entrenamiento funcional",
+  "specialties": "Funcional,HIIT,Pérdida de grasa",
+  "bio": "Más de 8 años guiando a personas que parten de cero. Su foco es que aprendas a moverte bien y disfrutes entrenar.",
+  "image": "/img/t1.svg"
+ },
+ {
+  "id": "a13c12b7-fbdb-439b-a684-0250168f0dfc",
+  "name": "Matías Soto",
+  "role": "Entrenador de boxeo fitness",
+  "studies": "Instructor certificado de boxeo fitness · Técnico en Deporte y Recreación · Primeros auxilios",
+  "specialties": "Boxeo,Cardio,Coordinación",
+  "bio": "Ex competidor amateur. Enseña técnica y resistencia en un ambiente motivador y seguro.",
+  "image": "/img/t2.svg"
+ },
+ {
+  "id": "70521655-587e-4964-9786-8bd8cb591db1",
+  "name": "Paula Herrera",
+  "role": "Kinesióloga · Instructora de yoga",
+  "studies": "Kinesiología (U. Mayor) · Yoga Alliance RYT-200 · Curso de rehabilitación deportiva",
+  "specialties": "Yoga,Movilidad,Prevención de lesiones",
+  "bio": "Combina kinesiología y yoga para mejorar tu postura, flexibilidad y recuperación.",
+  "image": "/img/t3.svg"
+ },
+ {
+  "id": "fb7d2478-b03f-4de4-b210-8bd4fd0c23d2",
+  "name": "Diego Fuentes",
+  "role": "Preparador físico",
+  "studies": "Licenciado en Ciencias del Deporte · Magíster en Fisiología del Ejercicio · Certificación NSCA-CPT",
+  "specialties": "Fuerza,Hipertrofia,Rendimiento",
+  "bio": "Diseña planes de fuerza y rendimiento basados en evidencia, para atletas y principiantes.",
+  "image": "/img/t4.svg"
+ }
+]
